@@ -1,0 +1,9 @@
+.product-cards-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit,400px);
+    grid-template-rows: auto;
+    justify-content: center;
+    justify-items: center;
+    gap:16px;
+}
+

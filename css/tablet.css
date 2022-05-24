@@ -1,0 +1,32 @@
+.main-exchange__container-table{
+    display: flex;
+    width: 80%;
+    height: 250px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    margin: 0 auto;
+    justify-content: center;
+    gap: 35px;
+}
+.plans-container__slider{
+    justify-content: center;
+}
+
+.footer__logo{
+    width: 100px;
+    height: 70px;
+    text-align: center;
+}
+
+.footer__logo img{
+    width: 100px;
+    height: auto;
+}
+
+
+.icon-potator{
+    width: 90px;
+    height:70px;
+    top:-35px;
+    left: calc(50% - 45px);
+}
